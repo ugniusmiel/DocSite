@@ -1,0 +1,8 @@
+site_name: My Docs
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - sourceforge: https://sourceforge.net/
+  - unit 2 notes: unit2/notes.md
+theme: readthedocs
